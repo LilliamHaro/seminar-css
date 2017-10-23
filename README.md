@@ -1,7 +1,7 @@
-##README
-1.Descripcion del proyecto:
-  -
-2.Herramientas utilizadas:
+## README
+1. Descripcion del proyecto:
+  - Este proyecto contiene una página web semiterminada sobre Laboratoria
+2. Herramientas utilizadas:
   -HTML5
   -CSS3
-3.[RECURSOS](assets/images/...)
+![RECURSOS](assets/images/laboratoria.png)
