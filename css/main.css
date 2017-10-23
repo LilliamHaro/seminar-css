@@ -32,6 +32,14 @@ header {
 }
 nav {
   position: absolute;
-  right: 7%;
-  top: 50%;
+  right: 5%;
+  top: 50%;/*empieza en la mitad de la altura del header*/
+  transform: translateY(-50%); /*para mover lamitad de la medida de la altura del texto*/
+}
+section {
+  text-align: center;
+}
+div {
+  width: 33%;
+  display: inline-block;
 }
